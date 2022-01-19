@@ -1,0 +1,10 @@
+D:\dev\Unity\Socket_TCP\SocketServer\P2PMessenger\obj\Debug\P2PMessenger.csproj.AssemblyReference.cache
+D:\dev\Unity\Socket_TCP\SocketServer\P2PMessenger\obj\Debug\P2PMessenger.Form1.resources
+D:\dev\Unity\Socket_TCP\SocketServer\P2PMessenger\obj\Debug\P2PMessenger.Properties.Resources.resources
+D:\dev\Unity\Socket_TCP\SocketServer\P2PMessenger\obj\Debug\P2PMessenger.csproj.GenerateResource.cache
+D:\dev\Unity\Socket_TCP\SocketServer\P2PMessenger\obj\Debug\P2PMessenger.csproj.CoreCompileInputs.cache
+D:\dev\Unity\Socket_TCP\SocketServer\P2PMessenger\bin\Debug\P2PMessenger.exe.config
+D:\dev\Unity\Socket_TCP\SocketServer\P2PMessenger\bin\Debug\P2PMessenger.exe
+D:\dev\Unity\Socket_TCP\SocketServer\P2PMessenger\bin\Debug\P2PMessenger.pdb
+D:\dev\Unity\Socket_TCP\SocketServer\P2PMessenger\obj\Debug\P2PMessenger.exe
+D:\dev\Unity\Socket_TCP\SocketServer\P2PMessenger\obj\Debug\P2PMessenger.pdb
