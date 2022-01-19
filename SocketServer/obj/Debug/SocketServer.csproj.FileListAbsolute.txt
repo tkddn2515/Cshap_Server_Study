@@ -1,0 +1,7 @@
+D:\dev\Unity\Socket_TCP\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+D:\dev\Unity\Socket_TCP\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\dev\Unity\Socket_TCP\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\dev\Unity\Socket_TCP\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+D:\dev\Unity\Socket_TCP\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\dev\Unity\Socket_TCP\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\dev\Unity\Socket_TCP\SocketServer\SocketServer\obj\Debug\SocketServer.pdb

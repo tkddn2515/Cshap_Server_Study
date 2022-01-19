@@ -1,0 +1,6 @@
+D:\dev\Unity\Socket_TCP\SocketServer\SocketClient\bin\Debug\SocketClient.exe.config
+D:\dev\Unity\Socket_TCP\SocketServer\SocketClient\bin\Debug\SocketClient.exe
+D:\dev\Unity\Socket_TCP\SocketServer\SocketClient\bin\Debug\SocketClient.pdb
+D:\dev\Unity\Socket_TCP\SocketServer\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\dev\Unity\Socket_TCP\SocketServer\SocketClient\obj\Debug\SocketClient.exe
+D:\dev\Unity\Socket_TCP\SocketServer\SocketClient\obj\Debug\SocketClient.pdb
