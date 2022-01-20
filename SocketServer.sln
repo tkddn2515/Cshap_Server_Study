@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClient", "SocketClien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2PMessenger", "P2PMessenger\P2PMessenger.csproj", "{CE3EE9D2-CF7F-413F-A747-19296A5D4C91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSendClient", "FileSend\FileSendClient\FileSendClient.csproj", "{03DB44F4-C808-42C9-8964-0475E62DB1AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReceiveServer", "FileSend\FileReceiveServer\FileReceiveServer.csproj", "{4BA12BC9-3655-4A94-8068-7AA86D5AEED3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{CE3EE9D2-CF7F-413F-A747-19296A5D4C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE3EE9D2-CF7F-413F-A747-19296A5D4C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE3EE9D2-CF7F-413F-A747-19296A5D4C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03DB44F4-C808-42C9-8964-0475E62DB1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DB44F4-C808-42C9-8964-0475E62DB1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DB44F4-C808-42C9-8964-0475E62DB1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DB44F4-C808-42C9-8964-0475E62DB1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA12BC9-3655-4A94-8068-7AA86D5AEED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA12BC9-3655-4A94-8068-7AA86D5AEED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA12BC9-3655-4A94-8068-7AA86D5AEED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA12BC9-3655-4A94-8068-7AA86D5AEED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

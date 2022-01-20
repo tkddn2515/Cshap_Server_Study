@@ -1,0 +1,7 @@
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileReceiveServer\bin\Debug\FileReceiveServer.exe.config
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileReceiveServer\bin\Debug\FileReceiveServer.exe
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileReceiveServer\bin\Debug\FileReceiveServer.pdb
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileReceiveServer\obj\Debug\FileReceiveServer.csproj.AssemblyReference.cache
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileReceiveServer\obj\Debug\FileReceiveServer.csproj.CoreCompileInputs.cache
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileReceiveServer\obj\Debug\FileReceiveServer.exe
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileReceiveServer\obj\Debug\FileReceiveServer.pdb

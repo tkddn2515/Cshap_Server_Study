@@ -112,7 +112,6 @@ namespace SocketServer
       try
       {
         byte[] packet = new byte[1024];
-        IPEndPoint iep = dosock.RemoteEndPoint as IPEndPoint;
         while (true)
         {
           dosock.Receive(packet);

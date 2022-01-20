@@ -1,0 +1,7 @@
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileSendClient\bin\Debug\FileSendClient.exe.config
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileSendClient\bin\Debug\FileSendClient.exe
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileSendClient\bin\Debug\FileSendClient.pdb
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileSendClient\obj\Debug\FileSendClient.csproj.AssemblyReference.cache
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileSendClient\obj\Debug\FileSendClient.csproj.CoreCompileInputs.cache
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileSendClient\obj\Debug\FileSendClient.exe
+D:\dev\Unity\Socket_TCP\SocketServer\FileSend\FileSendClient\obj\Debug\FileSendClient.pdb
