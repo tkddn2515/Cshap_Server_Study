@@ -76,5 +76,31 @@ namespace P2PMessenger
       lbox_msg.Items.Add(string.Format("{0}:{1}→{2}", other_ip, other_port, tbox_msg.Text));
       tbox_msg.Text = "";
     }
+
+    private void lbox_msg_DragEnter(object sender, DragEventArgs e)
+    {
+
+    }
+
+    private void lbox_msg_DragDrop(object sender, DragEventArgs e)
+    {
+
+    }
+
+    private void btn_my_fset_Click(object sender, EventArgs e)
+    {
+      string ip = tbox_my_ip.Text;
+      int port = 0;
+      if(!int.TryParse(tbox_my_fport.Text, out port))
+      {
+        MessageBox.Show("포트 잘못 입력");
+        return;
+      }
+    }
+
+    private void btn_other_fset_Click(object sender, EventArgs e)
+    {
+
+    }
   }
 }

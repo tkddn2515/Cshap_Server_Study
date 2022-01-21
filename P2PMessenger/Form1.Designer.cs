@@ -38,6 +38,10 @@ namespace P2PMessenger
       this.lbox_msg = new System.Windows.Forms.ListBox();
       this.tbox_msg = new System.Windows.Forms.TextBox();
       this.btn_send = new System.Windows.Forms.Button();
+      this.tbox_other_fport = new System.Windows.Forms.TextBox();
+      this.btn_other_fset = new System.Windows.Forms.Button();
+      this.tbox_my_fport = new System.Windows.Forms.TextBox();
+      this.btn_my_fset = new System.Windows.Forms.Button();
       this.SuspendLayout();
       // 
       // tbox_my_ip
@@ -90,23 +94,26 @@ namespace P2PMessenger
       // 
       // lbox_msg
       // 
+      this.lbox_msg.AllowDrop = true;
       this.lbox_msg.FormattingEnabled = true;
       this.lbox_msg.ItemHeight = 12;
       this.lbox_msg.Location = new System.Drawing.Point(25, 66);
       this.lbox_msg.Name = "lbox_msg";
-      this.lbox_msg.Size = new System.Drawing.Size(622, 328);
+      this.lbox_msg.Size = new System.Drawing.Size(821, 328);
       this.lbox_msg.TabIndex = 6;
+      this.lbox_msg.DragDrop += new System.Windows.Forms.DragEventHandler(this.lbox_msg_DragDrop);
+      this.lbox_msg.DragEnter += new System.Windows.Forms.DragEventHandler(this.lbox_msg_DragEnter);
       // 
       // tbox_msg
       // 
       this.tbox_msg.Location = new System.Drawing.Point(25, 417);
       this.tbox_msg.Name = "tbox_msg";
-      this.tbox_msg.Size = new System.Drawing.Size(541, 21);
+      this.tbox_msg.Size = new System.Drawing.Size(740, 21);
       this.tbox_msg.TabIndex = 7;
       // 
       // btn_send
       // 
-      this.btn_send.Location = new System.Drawing.Point(572, 415);
+      this.btn_send.Location = new System.Drawing.Point(771, 415);
       this.btn_send.Name = "btn_send";
       this.btn_send.Size = new System.Drawing.Size(75, 23);
       this.btn_send.TabIndex = 8;
@@ -114,13 +121,51 @@ namespace P2PMessenger
       this.btn_send.UseVisualStyleBackColor = true;
       this.btn_send.Click += new System.EventHandler(this.btn_send_Click);
       // 
+      // tbox_other_fport
+      // 
+      this.tbox_other_fport.Location = new System.Drawing.Point(665, 39);
+      this.tbox_other_fport.Name = "tbox_other_fport";
+      this.tbox_other_fport.Size = new System.Drawing.Size(100, 21);
+      this.tbox_other_fport.TabIndex = 12;
+      // 
+      // btn_other_fset
+      // 
+      this.btn_other_fset.Location = new System.Drawing.Point(771, 37);
+      this.btn_other_fset.Name = "btn_other_fset";
+      this.btn_other_fset.Size = new System.Drawing.Size(75, 23);
+      this.btn_other_fset.TabIndex = 11;
+      this.btn_other_fset.Text = "설정";
+      this.btn_other_fset.UseVisualStyleBackColor = true;
+      this.btn_other_fset.Click += new System.EventHandler(this.btn_other_fset_Click);
+      // 
+      // tbox_my_fport
+      // 
+      this.tbox_my_fport.Location = new System.Drawing.Point(665, 12);
+      this.tbox_my_fport.Name = "tbox_my_fport";
+      this.tbox_my_fport.Size = new System.Drawing.Size(100, 21);
+      this.tbox_my_fport.TabIndex = 10;
+      // 
+      // btn_my_fset
+      // 
+      this.btn_my_fset.Location = new System.Drawing.Point(771, 10);
+      this.btn_my_fset.Name = "btn_my_fset";
+      this.btn_my_fset.Size = new System.Drawing.Size(75, 23);
+      this.btn_my_fset.TabIndex = 9;
+      this.btn_my_fset.Text = "설정";
+      this.btn_my_fset.UseVisualStyleBackColor = true;
+      this.btn_my_fset.Click += new System.EventHandler(this.btn_my_fset_Click);
+      // 
       // Form1
       // 
       this.AcceptButton = this.btn_send;
       this.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
       this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(677, 457);
+      this.ClientSize = new System.Drawing.Size(858, 457);
+      this.Controls.Add(this.tbox_other_fport);
+      this.Controls.Add(this.btn_other_fset);
+      this.Controls.Add(this.tbox_my_fport);
+      this.Controls.Add(this.btn_my_fset);
       this.Controls.Add(this.btn_send);
       this.Controls.Add(this.tbox_msg);
       this.Controls.Add(this.lbox_msg);
@@ -149,6 +194,10 @@ namespace P2PMessenger
     private System.Windows.Forms.ListBox lbox_msg;
     private System.Windows.Forms.TextBox tbox_msg;
     private System.Windows.Forms.Button btn_send;
+    private System.Windows.Forms.TextBox tbox_other_fport;
+    private System.Windows.Forms.Button btn_other_fset;
+    private System.Windows.Forms.TextBox tbox_my_fport;
+    private System.Windows.Forms.Button btn_my_fset;
   }
 }
 

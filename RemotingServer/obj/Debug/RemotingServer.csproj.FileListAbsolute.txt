@@ -1,0 +1,10 @@
+D:\dev\Unity\Socket_TCP\SocketServer\RemotingServer\bin\Debug\RemotingServer.exe.config
+D:\dev\Unity\Socket_TCP\SocketServer\RemotingServer\bin\Debug\RemotingServer.exe
+D:\dev\Unity\Socket_TCP\SocketServer\RemotingServer\bin\Debug\RemotingServer.pdb
+D:\dev\Unity\Socket_TCP\SocketServer\RemotingServer\bin\Debug\GeneralLib.dll
+D:\dev\Unity\Socket_TCP\SocketServer\RemotingServer\bin\Debug\GeneralLib.pdb
+D:\dev\Unity\Socket_TCP\SocketServer\RemotingServer\obj\Debug\RemotingServer.csproj.AssemblyReference.cache
+D:\dev\Unity\Socket_TCP\SocketServer\RemotingServer\obj\Debug\RemotingServer.csproj.CoreCompileInputs.cache
+D:\dev\Unity\Socket_TCP\SocketServer\RemotingServer\obj\Debug\RemotingServer.csproj.CopyComplete
+D:\dev\Unity\Socket_TCP\SocketServer\RemotingServer\obj\Debug\RemotingServer.exe
+D:\dev\Unity\Socket_TCP\SocketServer\RemotingServer\obj\Debug\RemotingServer.pdb
